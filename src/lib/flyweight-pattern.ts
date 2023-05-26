@@ -16,7 +16,6 @@ interface PokemonList {
   }[];
 }
 
-
 function makeURLFlyweights<RType>(
   urls: Record<string, string>
 ) {
